@@ -1,0 +1,12 @@
+{
+    "require": {
+        "icicleio/http": "^0.1.0",
+        "league/route": "^1.2",
+        "league/plates": "^3.1"
+    },
+    "autoload": {
+        "files": [
+            "helpers.php"
+        ]
+    }
+}
